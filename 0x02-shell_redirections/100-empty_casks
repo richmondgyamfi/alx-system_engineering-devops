@@ -1,2 +1,1 @@
-#!/bin/bash                                                                                                                                     
-find . -type f -empty -print -delete
+#!/bin/bash                                                                                                                                    ifind . -empty -printf "%f\n" 
